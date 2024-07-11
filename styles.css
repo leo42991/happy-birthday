@@ -1,8 +1,13 @@
 body { 
+     background-image:url('background2.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
      font-family: 'Satisfy', cursive;
      margin: 20px;
 }
 h1 {
+    font-family: 'Satisfy', cursive;
     color: #800080;
 }
 p {
